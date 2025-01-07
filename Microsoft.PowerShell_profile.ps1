@@ -13,6 +13,9 @@
 # Carrega as função de BackupFunctions
 . "$HOME\OneDrive\Documentos\PowerShell\ProfileParts\backup-functions.ps1"
 
+# Carrega as função de Youtube Download Functions
+. "$HOME\OneDrive\Documentos\PowerShell\ProfileParts\youtube-download-functions.ps1"
+
 
 # Para fazer um reload do terminal use o comando
 # . $PROFILE

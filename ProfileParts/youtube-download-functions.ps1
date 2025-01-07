@@ -1,3 +1,5 @@
+Import-Module -Name "$HOME\OneDrive\Documentos\PowerShell\ProfileParts\text-color-functions"
+
 function Start-DownloadYoutubeFunctions {
     param (
         [string]$Uri = ""
